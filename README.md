@@ -1,6 +1,4 @@
 # hello-world
-#include <iostream>
-using namespace std;
-void main()
-{
-  cout << "Hello World!" << endl;   cout << "Welcome to C++ Programming" << endl; }
+# Intractable Hero here.. my handle is not intended to be arrogant, it's actually an anagram of my real name!
+# looking forward to contributing on Git Hub and learning from the community.
+# may the schwartz be with you 
